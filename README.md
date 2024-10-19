@@ -48,10 +48,26 @@ Além disso, devido à ausência de orçamento para a hospedagem, é inviável a
 *   **Idiomas Falados pela Equipe\***
     *   Primeira Língua;
     *   Segunda Língua;
-*   **Critérios de Elegibilidade** (Ex: Passaporte, CPF, etc)
+*   **Critérios de Elegibilidade** (Ex: Passaporte, CPF, Residência no Brasil, etc)
+    *   Português;
+    *   Espanhol;
+    *   Francês;
+    *   Inglês.
 *   **Populações Alvo\*** (Principais grupos atendidos)
+    *   Português;
+    *   Espanhol;
+    *   Francês;
+    *   Inglês.
 *   **Serviços Oferecidos\*** (Ex: Apoio Legal e Jurídico, Apoio à Saúde, Orientação e Informação)
+    *   Português;
+    *   Espanhol;
+    *   Francês;
+    *   Inglês.
 *   **Custos dos Serviços\***
+    *   Português;
+    *   Espanhol;
+    *   Francês;
+    *   Inglês.
 *   **Autorização e Consentimento\***
     *   Autorização para Compartilhamento de Informações
     *   Ex: **Concordo em compartilhar estas informações no aplicativo para visibilidade da nossa instituição.**
